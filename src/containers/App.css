@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+@font-face {
+  font-family: 'Patchy Robots Regular';
+  font-style: normal;
+  font-weight: normal;
+  src: local('Patchy Robots Regular'), url('Patchy Robots.woff') format('woff');
+  }
+
+h1{
+  font-family: 'Patchy Robots Regular';
+  font-weight: 200;
+  color: #0ccac4;
+}
