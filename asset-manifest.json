@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/friends/static/css/main.4e046319.chunk.css",
+    "main.js": "/friends/static/js/main.4c94200c.chunk.js",
+    "main.js.map": "/friends/static/js/main.4c94200c.chunk.js.map",
+    "runtime-main.js": "/friends/static/js/runtime-main.df665f4e.js",
+    "runtime-main.js.map": "/friends/static/js/runtime-main.df665f4e.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/friends/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a6e8b5b4.chunk.js": "/friends/static/js/2.a6e8b5b4.chunk.js",
+    "static/js/2.a6e8b5b4.chunk.js.map": "/friends/static/js/2.a6e8b5b4.chunk.js.map",
+    "index.html": "/friends/index.html",
+    "precache-manifest.d9d25b38d0624190998d47e9d8984f7b.js": "/friends/precache-manifest.d9d25b38d0624190998d47e9d8984f7b.js",
+    "service-worker.js": "/friends/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/friends/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.4e046319.chunk.css.map": "/friends/static/css/main.4e046319.chunk.css.map",
+    "static/js/2.a6e8b5b4.chunk.js.LICENSE.txt": "/friends/static/js/2.a6e8b5b4.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/friends/static/media/Patchy Robots.3eb2be46.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.df665f4e.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.a6e8b5b4.chunk.js",
+    "static/css/main.4e046319.chunk.css",
+    "static/js/main.4c94200c.chunk.js"
+  ]
+}
